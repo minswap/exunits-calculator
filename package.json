@@ -1,0 +1,19 @@
+{
+  "name": "exunits-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "borc": "^3.0.0",
+    "cbor": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.4"
+  }
+}
